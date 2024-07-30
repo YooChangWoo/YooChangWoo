@@ -4,7 +4,7 @@
 <!--h1 align="center">Hi 👋, I'm This is Jihwan Hwang, a developer who codes dreams.</h1-->
 <!--h3 align="center">I'm workin with the misson of change the world a better than yesterday!</h3-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+This+is+Jihwan+Hwang!;Welcome+to+my+treasure!;I'm+workin+with+the+mission+of+change!;the+world+a+better+than+yesterday!&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+This+is+changwoo+Yoo!;Welcome+to+my+treasure!;I'm+workin+with+the+mission+of+change!;the+world+a+better+than+yesterday!&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <!--p align="center">
@@ -14,11 +14,9 @@
 <!--p align="center"> <img src="https://komarev.com/ghpvc/?username=hwangji99&label=Profile%20views&color=0e75b6&style=flat" alt="hwangji99" /> </p-->
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 SNS List </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/jiihi9_9/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jiihi9_9/"> </a>
-         <a href=https://www.facebook.com/profile.php?id=100006667537099> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006667537099"> </a>
-         <a href=https://www.notion.so/ca91a02f1918406d8d4c1350b998f82d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/ca91a02f1918406d8d4c1350b998f82d"> </a>
+    <div align= "center"> <a href=https://www.instagram.com/Yoo.cw__/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/Yoo.cw__/"> </a>
           </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangji99%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYooChangWoo%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
 
